@@ -1,8 +1,7 @@
-- 👋 Olá, eu me chamo Salvador. Na área de Desenvolvimento possuo formação em WebDesigner e outros cursos de curta duração. 
-Também possuo (de forma incompleta) um curso superior na modalidade Tecnólogo em Análise e Desenvolvimento de Sistemas (TADS). 
-- 👀 Estou interessado em aprender, na área de desenvolvimento, para poder me recolocar no mercado.
-- 🌱 Atualmente (2022) realizo um curso de Formação de Desenvolvedores pela Católica de SC em Jaraguá do Sul.
-- 💞️ Estou procurando colaborar em projetos que possam me dar experiência na área.
+- 👋 Olá, eu me chamo Salvador.
+- 🌱 Atualmente (2022) realizo um curso de Formação de Desenvolvedores pela Católica de SC em Jaraguá do Sul. Também possuo (de forma incompleta) um curso superior na modalidade Tecnólogo em Análise e Desenvolvimento de Sistemas (TADS). Possuo formação completa em WebDesigner e outros cursos de curta duração. 
+- 👀 De forma constante procuro me atualizar na área de desenvolvimento, para poder me recolocar no mercado e entregar valor.
+- 💞️ Estou procurando colaborar em projetos que possam me dar mais experiência na área.
 
 - 📫 Como chegar até mim:
 

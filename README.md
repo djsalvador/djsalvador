@@ -4,11 +4,17 @@
 - 💞️ Procuro colaborar em projetos que possam me dar mais experiência na área, com foco em entrega de valor e resolução de problemas.
 
 - 📫 Como chegar até mim:
+- 
 disney.js@gmail.com
+
 linkedin.com/in/disneysalvador
+
 lattes.cnpq.br/1740783558218056
+
 www.behance.net/djsalvador
+
 github.com/djsalvador
+
 @D_Salvador (Telegram)
 
 <!---

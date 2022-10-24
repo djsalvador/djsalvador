@@ -1,11 +1,13 @@
-- 👋 Olá, me chamo Salvador, possuo experiência em Análise de Dados de Inteligência Operacional, Desenvolvimento Web e de Sistemas.
-- 🌱 Atualmente (2022) realizo um curso de Formação de Desenvolvedores pela Católica de SC. 
-- 🌱 Possuo (de forma incompleta) curso superior na modalidade Tecnólogo em Análise e Desenvolvimento de Sistemas. 
-- 🌱 Possuo formação completa em WebDesigner realizado no Instituto INFNET.
-- 🌱 Também possuo diversos outros cursos de curta duração na área de desenvolvimento de software, desenvolvimento 3D e análise de dados.
-- 🌱 Possuo conhecimento e alguma experiência em Front End (HTML / CSS / Javascript) e em Back End (Java, Python, PHP), Banco de Dados (SQL)
-- 🌱 Na área de Design possuo experiência e conhecimento em Photoshop e em Desenvolvimento 3D possuo conhecimento em Sketch-Up e Blender3D.
-- 👀 De forma constante procuro me atualizar na área de desenvolvimento de software e web.
+- 👋 Olá, me chamo Salvador.
+- 🌱 Atualmente (2022) realizo um curso de Formação de Desenvolvedores pela Católica de SC;
+- 🌱 Possuo (de forma incompleta) curso superior na modalidade Tecnólogo em Análise e Desenvolvimento de Sistemas;
+- 🌱 Possuo formação completa em WebDesigner realizado no Instituto INFNET;
+- 🌱 Possuo conhecimento e alguma experiência em Front End (HTML/CSS/Bootstrap/Javascript);
+- 🌱 Possuo conhecimento em Back End (Java, Python, PHP), Banco de Dados (SQL);
+- 🌱 Na área de edição de imagens possuo experiência e conhecimento em Photoshop; 
+- 🌱 Possuo conhecimentoe em Desenvolvimento 3D usando Sketch-Up e Blender3D.
+- 🌱 Possuo diversos cursos na área de desenvolvimento web, de software, em desenvolvimento 3D e análise de dados;
+- 👀 De forma constante procuro me atualizar na área de desenvolvimento.
 - 💞️ Quero colaborar em seus projetos, afim de obter mais experiência, sempre com foco em entrega de valor e resolução de problemas.
 - 📫 Como chegar até mim, currículo e outros Portfólios:
 

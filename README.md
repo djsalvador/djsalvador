@@ -5,7 +5,7 @@
 - 🌱 Possuo conhecimento e alguma experiência em Front End (HTML/CSS/Bootstrap/Javascript);
 - 🌱 Possuo conhecimento em Back End (Java, Python, PHP), Banco de Dados (SQL);
 - 🌱 Na área de edição de imagens possuo experiência e conhecimento em Photoshop; 
-- 🌱 Possuo conhecimentoe em Desenvolvimento 3D usando Sketch-Up e Blender3D.
+- 🌱 Possuo conhecimento em Desenvolvimento 3D usando Sketch-Up e Blender3D.
 - 🌱 Possuo diversos cursos na área de desenvolvimento web, de software, em desenvolvimento 3D e análise de dados;
 - 👀 De forma constante procuro me atualizar na área de desenvolvimento.
 - 💞️ Quero colaborar em seus projetos, afim de obter mais experiência, sempre com foco em entrega de valor e resolução de problemas.

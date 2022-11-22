@@ -3,7 +3,7 @@
 - 🌱 Possuo (de forma incompleta) curso superior na modalidade Tecnólogo em Análise e Desenvolvimento de Sistemas;
 - 🌱 Possuo formação completa em WebDesigner realizado no Instituto INFNET;
 - 🌱 Possuo conhecimento e alguma experiência em Front End (HTML/CSS/Bootstrap/Javascript);
-- 🌱 Possuo conhecimento em Back End (Java, Python, PHP), Banco de Dados (SQL);
+- 🌱 Possuo conhecimento em Back End (Java, Springboot, Python, PHP), Banco de Dados (SQL);
 - 🌱 Na área de edição de imagens possuo experiência e conhecimento em Photoshop; 
 - 🌱 Possuo conhecimento em Desenvolvimento 3D usando Sketch-Up e Blender3D.
 - 🌱 Possuo diversos cursos na área de desenvolvimento web, de software, em desenvolvimento 3D e análise de dados;

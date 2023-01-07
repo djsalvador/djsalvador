@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Salvador.
 - 🌱 Possuo Formação em Desenvolvimento de Software pela Católica de SC (2022);
-- 🌱 Possuo (de forma incompleta) curso superior na modalidade Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFRS (2016 a 2021);
+- 🌱 Possuo (de forma incompleta) curso superior em Análise e Desenvolvimento de Sistemas pelo IFRS (2016 a 2021);
 - 🌱 Possuo formação completa em WebDesigner realizado no Instituto INFNET do RJ (2009 a 2010);
 - 🌱 Possuo conhecimento e alguma experiência em Front End (HTML/CSS/Bootstrap/Javascript/APIs);
 - 🌱 Possuo conhecimento em Back End (Java, Springboot, Python, PHP), Banco de Dados (SQL/Postgres-MySQL);

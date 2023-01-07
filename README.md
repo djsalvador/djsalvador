@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Salvador.
-- 🌱 Atualmente (2022) realizo um curso de Formação de Desenvolvedores pela Católica de SC;
-- 🌱 Possuo (de forma incompleta) curso superior na modalidade Tecnólogo em Análise e Desenvolvimento de Sistemas;
-- 🌱 Possuo formação completa em WebDesigner realizado no Instituto INFNET;
+- 🌱 Possuo Formação em Desenvolvimento de Software pela Católica de SC;
+- 🌱 Possuo (de forma incompleta) curso superior na modalidade Tecnólogo em Análise e Desenvolvimento de Sistemas (IFRS);
+- 🌱 Possuo formação completa em WebDesigner realizado no Instituto INFNET do RJ;
 - 🌱 Possuo conhecimento e alguma experiência em Front End (HTML/CSS/Bootstrap/Javascript/APIs);
 - 🌱 Possuo conhecimento em Back End (Java, Springboot, Python, PHP), Banco de Dados (SQL/Postgres-MySQL);
 - 🌱 Na área de edição de imagens possuo experiência e conhecimento em Photoshop; 

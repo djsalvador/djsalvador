@@ -4,6 +4,7 @@
 - 🌱 Possuo formação completa em WebDesigner realizado no Instituto INFNET do RJ (2009 a 2010);
 - 🌱 Possuo conhecimento e alguma experiência em Front End (HTML/CSS/Bootstrap/Javascript/APIs);
 - 🌱 Possuo conhecimento em Back End (Java, Springboot, Python, PHP), Banco de Dados (SQL/Postgres-MySQL);
+- 🌱 Possuo algum conhecimento em Análise de dados (Machine Learning, Big Data, BI);
 - 🌱 Na área de edição de imagens possuo experiência e conhecimento em Photoshop; 
 - 🌱 Possuo conhecimento em Desenvolvimento 3D usando Sketch-Up e Blender3D.
 - 🌱 Possuo diversos cursos na área de desenvolvimento web, de software, em desenvolvimento 3D e análise de dados;

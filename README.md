@@ -13,7 +13,7 @@
 - 📫 Como chegar até mim, currículo e outros Portfólios:
 
 <div align="center">
-  <a href = "mailto:disney.js@gmail.com"></a>  
+  <a href = "mailto:disney.js@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/1740783558218056" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%230077B5?style=for-the-badge&logo=lattes&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/djsalvador" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 </div>
@@ -49,7 +49,7 @@
   
 <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-<img alt="Sketchup" src="https://camo.githubusercontent.com/244585da042cf753fc46d235ac0539098a3e8fa6f32c842aa1ea4ac458a7b8d5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d536b65746368557026636f6c6f723d303035463945266c6f676f3d536b657463685570266c6f676f436f6c6f723d464646464646266c6162656c3d?style=for-the-badge&logo=blender&logoColor=white">
+<img alt="Sketchup" src="https://img.shields.io/badge/sketchup-f39f37">
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
   
